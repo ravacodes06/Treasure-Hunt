@@ -8,7 +8,7 @@ Embark on an epic adventure across treacherous islands in Pirate Treasure Hunt ,
 - A terminal or command-line interface
 ### Steps to Install
 1. Clone or download the source code files:
-   `git clone https://github.com/your-repo/pirate-treasure-hunt.git`
+   `[git clone https://github.com/your-repo/pirate-treasure-hunt.git](https://github.com/ravacodes06/Treasure-Hunt.git)`
 2. Navigate to the project directory:
    `cd pirate-treasure-hunt`
 3. Compile the game using `gcc`:
