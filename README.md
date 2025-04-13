@@ -25,7 +25,7 @@ Embark on an epic adventure across treacherous islands in Pirate Treasure Hunt ,
 6. Complete Levels : Progress through three increasingly challenging levels.
 7. Beat the High Score : Aim to surpass the current high score and etch your name into pirate history.
 
-## Game Mechanics
+## Game Design
 
 ### Objective
 Find the treasure (T) on the grid while avoiding traps (X), cursed treasures (C), and managing your lives and guesses.
